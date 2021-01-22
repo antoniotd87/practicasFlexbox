@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "PracticasFlexbox"
+  "defaultProject": "PracticasFlexbox",
+  "cli": {
+    "analytics": false
+  }
 }
